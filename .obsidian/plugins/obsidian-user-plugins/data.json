@@ -1,0 +1,7 @@
+{
+  "snippets": [],
+  "scriptsFolder": "JS/user-plugins",
+  "enabledScripts": [
+    "JS/user-plugins/foobar.js"
+  ]
+}

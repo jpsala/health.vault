@@ -1,0 +1,12 @@
+{
+  "apiKey": "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",
+  "summariseTokens": 364,
+  "completionTokens": 364,
+  "elaborateTokens": 768,
+  "modifyTokens": 364,
+  "translateTokens": 364,
+  "temperature": 0.7,
+  "model": "gpt-3.5-turbo",
+  "gpt4Translation": false,
+  "allowStream": true
+}

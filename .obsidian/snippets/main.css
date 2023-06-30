@@ -1,0 +1,58 @@
+.cm-contentContainer {
+  padding-left: 10% !important;
+  padding-right: 10% !important;
+}
+@media only screen and (max-width: 1000px) {
+  .cm-contentContainer {
+    padding-left: 10% !important;
+    padding-right: 10% !important;
+  }
+}
+.small *{
+  font-size: 15px;
+}
+.xsmall *{
+  font-size: 12px;
+}
+.cm-header.cm-header-2 {
+  /* color: rgb(85, 85, 158); */
+}
+/* .cm-hmd-frontmatter { display: none; } */
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"], .markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="X"]{
+  text-decoration: none;
+}
+.markdown-preview-sizer.markdown-preview-section{
+  margin-left: 80px !important;
+  margin-right: 80px !important;
+  /* padding-left: 0; */
+  /* max-width: 90vw !important; */
+  /* max-width: unset !important; */
+}
+/* .markdown-preview-view.markdown-rendered.is-readable-line-width{
+  margin-left: 0px;
+  padding-left: 0px;
+} */
+
+.cm-blockid.cm-header{
+  font-size: 12px !important;
+}
+.cm-blockid{
+  font-size: 12px !important;
+  color: #888;
+  font-style: italic;
+  opacity: .2;
+}
+.cm-blockid:hover{
+  color: white;
+  opacity: .5;
+  font-size: 14px !important;;
+}
+.dialogue-plugin-message{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.is-readable-line-width .cm-contentContainer {
+  padding-left: 0% !important;
+  padding-right: 0% !important;
+}

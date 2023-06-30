@@ -1,0 +1,30 @@
+{
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "files",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "spellcheck": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "es-AR"
+  ],
+  "strictLineBreaks": false,
+  "showIndentGuide": false,
+  "foldIndent": false,
+  "tabSize": 3,
+  "useTab": true,
+  "smartIndentList": true,
+  "spellcheckDictionary": [
+    "Estuve"
+  ],
+  "newFileLocation": "current"
+}

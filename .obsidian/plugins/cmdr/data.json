@@ -1,0 +1,111 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "obsidian-toggle-meta-yaml-plugin:obsidian-toggle-meta-yaml-toggle",
+      "icon": "airplay",
+      "name": "Toggle Meta Yaml: toggle",
+      "mode": "any"
+    },
+    {
+      "id": "media-extended:get-timestamp",
+      "icon": "video",
+      "name": "Media Extended: Get timestamp from player",
+      "mode": "any"
+    },
+    {
+      "id": "convert-url-to-iframe:url-to-iframe",
+      "icon": "video",
+      "name": "Convert url to preview (iframe): URL to Preview/Iframe",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-languagetool-plugin:ltcheck-text",
+      "icon": "text-cursor",
+      "name": "LanguageTool Integration: Check Text",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-languagetool-plugin:ltclear",
+      "icon": "eraser",
+      "name": "LanguageTool Integration: Clear Suggestions",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "OA-file-hider:oa-fh-toggle-visibility",
+      "icon": "shield-off",
+      "name": "File Hider: Toggle Visibility",
+      "mode": "any"
+    },
+    {
+      "id": "media-extended:open-media-link",
+      "icon": "timer",
+      "name": "Media Extended: Open Media from Link",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "workspace:move-to-new-window",
+      "icon": "lucide-maximize",
+      "name": "Move current tab to new window",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [
+    {
+      "id": "editor:toggle-source",
+      "icon": "lucide-code-2",
+      "name": "Toggle Live Preview/Source mode",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-languagetool-plugin:ltcheck-text",
+      "icon": "wrap-text",
+      "name": "LanguageTool Integration: Check Text",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-languagetool-plugin:ltclear",
+      "icon": "delete",
+      "name": "LanguageTool Integration: Clear Suggestions",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-quickshare:obsidian-quickshare-share-note",
+      "icon": "share-2",
+      "name": "QuickShare: Create share link",
+      "mode": "any"
+    },
+    {
+      "id": "app:delete-file",
+      "icon": "lucide-trash-2",
+      "name": "Delete current file",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": "7",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

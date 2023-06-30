@@ -1,0 +1,42 @@
+{
+  "presetFields": [
+    {
+      "name": "Tags",
+      "options": {
+        "valuesList": {
+          "1": "#active",
+          "2": "#type/ticket",
+          "3": "#note"
+        },
+        "sourceType": "ValuesFromDVQuery",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": "dv.pages().file.tags.map(s => `#${s}`.slice(1)).distinct()"
+      },
+      "id": "2",
+      "type": "Multi",
+      "command": {
+        "id": "insert__presetField__Tags",
+        "icon": "list-plus",
+        "label": "Insert Tags field"
+      }
+    }
+  ],
+  "fileClassQueries": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": "fileclass/",
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "fileClass",
+  "settingsVersion": 3,
+  "firstDayOfWeek": 1,
+  "enableLinks": true,
+  "enableTabHeader": true,
+  "enableEditor": true,
+  "enableBacklinks": true,
+  "enableStarred": true,
+  "enableFileExplorer": true,
+  "enableSearch": true,
+  "buttonIcon": "clipboard-list",
+  "tableViewMaxRecords": 100,
+  "frontmatterListDisplay": "asArray"
+}

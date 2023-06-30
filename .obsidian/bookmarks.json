@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1683115964567,
+      "items": [
+        {
+          "type": "file",
+          "path": "Home.md",
+          "ctime": 1683115253084
+        },
+        {
+          "type": "file",
+          "ctime": 1683115873228,
+          "path": "TODO.md",
+          "title": "todo"
+        },
+        {
+          "type": "search",
+          "ctime": 1683116122488,
+          "query": "tag:#active path:/tickets",
+          "title": "activ tickets"
+        }
+      ],
+      "title": "Main"
+    }
+  ]
+}

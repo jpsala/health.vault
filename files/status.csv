@@ -1,0 +1,8 @@
+id,name,key,weight,can_edit,success_message,email_subject,sort_number
+1,Draft, draft, 0, True, None, ACTION REQUIRED: Request ID {{account_request_number is saved as a Draft, 1
+2,Submitted, submitted, 100, True, Account request is submitted to HR Ops., Request ID {{account_request_number has been Submitted, 4
+3,Approved, approved, 300, False, Account Request is Approved, Request ID {{account_request_number has been Approved, 5
+4,Returned, returned, 200, True, Account Request is returned to Hiring Manager., Request ID {{account_request_number has been Returned, 2
+5,Withdrawn, withdrawn, 400, False, Account Request is withdrawn, Request ID {{account_request_number has been Withdrawn, 3
+6,Canceled, canceled, 700, False, Account Request is cancelled., Request ID {{account_request_number has been Cancelled, 6
+7,Hold, hold, 150, False, Account request is on Hold, Request ID {{account_request_number has been put on Hold,  _

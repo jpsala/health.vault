@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "main"
+  ],
+  "baseFontSize": 17,
+  "theme": "moonstone"
+}
